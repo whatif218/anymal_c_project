@@ -265,14 +265,9 @@ os.chdir(os.path.dirname(os.path.abspath(\_\_file\_\_)))
 
 
 
-\### Demo
-
-
-
+### Demo
 <p align="center">
-
-&#x20; <img src="./demo.gif" alt="Anymal C Navigation Demo" width="700">
-
+  <img src="./demo.gif" alt="Anymal C Navigation Demo" width="700">
 </p>
 
 
